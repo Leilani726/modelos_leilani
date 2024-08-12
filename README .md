@@ -1,4 +1,4 @@
-#description 
+# description 
 
 Este archivo va a describir todas las actividades realizadas durante el semestre 
 - tareas 
